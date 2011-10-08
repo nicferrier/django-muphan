@@ -1,0 +1,4 @@
+a media hub app.
+
+This is to handle a lot of the boring drudge of doing media uploading
+(ie: photos) to your app.
