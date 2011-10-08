@@ -10,7 +10,7 @@ classifiers = [
 ]
 
 setup(
-    name = "muphan",
+    name = "django-muphan",
     version = "0.1",
     author = "Nic Ferrier",
     author_email = "nferrier@ferrier.me.uk",
